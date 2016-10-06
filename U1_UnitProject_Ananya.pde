@@ -22,7 +22,7 @@ void setup()
  
 void draw()
 {
-  background(50, 100, 255);
+  background(100, 100, 200);
   fill(300,300,50);
   image(star, width/2, height/2);
  
